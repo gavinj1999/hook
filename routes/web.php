@@ -16,3 +16,5 @@ Route::get('/', function () {
 });
 
 Route::webhooks('webhook');
+
+Route::webhooks('morehook');
